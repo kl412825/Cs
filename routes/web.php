@@ -264,3 +264,6 @@ Route::get('/home/carts/jia/{cid}','Home\CartsController@jia');
 Route::get('/home/carts/dele/{id}','Home\CartsController@dele');
 //购物车
 Route::resource('/home/carts','Home\CartsController');
+//其实()
+//wybcr
+//kwnssms
