@@ -82,9 +82,6 @@ Route::group(['middleware'=>'hlogin'],function(){
 
 
 
-
-
-
 Route::get('welcome.blade.php',function(){
 	return view('admin.index.welcome');
 });
