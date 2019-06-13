@@ -45,8 +45,10 @@ Route::group(['middleware'=>'hlogin'],function(){
 	Route::get('home/center/password','Home\CenterController@password');
 	Route::post('home/center/save','Home\CenterController@save');
 });
-
-
+//大家sajfidifjisdjgifdjigjfdpjgp
+//大家sajfidifjisdjgifdjigjfdpjgp
+//大家sajfidifjisdjgifdjigjfdpjgp
+//大家sajfidifjisdjgifdjigjfdpjgp
 
 
 
