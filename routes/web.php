@@ -45,7 +45,11 @@ Route::group(['middleware'=>'hlogin'],function(){
 	Route::get('home/center/password','Home\CenterController@password');
 	Route::post('home/center/save','Home\CenterController@save');
 });
-
+//556
+//556
+//556
+//556
+//556
 
 
 
