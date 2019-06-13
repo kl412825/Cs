@@ -50,7 +50,7 @@ Route::group(['middleware'=>'hlogin'],function(){
 ////opodsoap
 /////opodsoap
 /////opodsoap
-
+Route::('/welow',function(){});
 
 
 
