@@ -45,6 +45,7 @@ Route::group(['middleware'=>'hlogin'],function(){
 	Route::get('home/center/password','Home\CenterController@password');
 	Route::post('home/center/save','Home\CenterController@save');
 });
+
 //9990
 //9990
 //9990
@@ -52,6 +53,13 @@ Route::group(['middleware'=>'hlogin'],function(){
 //9990
 //9990
 //9990
+
+//556
+//556
+//556
+//556
+//556
+
 
 
 
