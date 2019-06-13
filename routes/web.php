@@ -61,7 +61,11 @@ Route::group(['middleware'=>'hlogin'],function(){
 //556
 
 
+
 999
+
+7777
+
 
 
 
@@ -87,6 +91,8 @@ Route::group(['middleware'=>'hlogin'],function(){
 
 
 ceshi1 2222
+ceshi1 dz
+
 
 
 
